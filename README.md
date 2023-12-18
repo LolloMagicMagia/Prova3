@@ -12,4 +12,4 @@
 
 Repository GitLab: https://gitlab.com/FedeP14/2023_assignment3_TravelTrove
 
-![Descrizione dell'immagine](immagine con classi.jpg)
+![Descrizione dell'immagine](immagine_con_classi.jpg)
